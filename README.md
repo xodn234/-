@@ -24,7 +24,8 @@
 - ![image](https://user-images.githubusercontent.com/78893090/169684646-b2e64c39-5ecb-4eaf-9d8b-3e8d19549f61.png)
 
 ### 파이프라인
-- JSON      ->      MongoDB       ->      Pandas      ->      NLP      ->      Flask      ->      Heroku
+- ![image](https://user-images.githubusercontent.com/78893090/169686762-b24f1dec-b165-4cd6-a514-c1e467e442a6.png)
+- JSON      ->      MongoDB       ->      Pandas      ->      NLP      ->      Flask      ->      Heroku
 
 ### 모델 구성 과정
 - 주요 전처리 과정
