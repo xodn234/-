@@ -40,6 +40,8 @@
 ### 배포 사이트
 - https://food-allergy-c.herokuapp.com/
 - ![image](https://user-images.githubusercontent.com/78893090/169684784-b6eb983b-e12b-4f51-83e0-b9ae5e8d2a53.png)
+- 검색리스트
+  - [foodname.txt](https://github.com/xodn234/Food_Allergy_PJ/files/8885458/foodname.txt)
 
 ### 보완점
 - 컴퓨터 성능적인 문제로 알수없음 데이터 삭제
