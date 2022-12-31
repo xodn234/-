@@ -38,7 +38,7 @@
   - 식품 이름(입력) -> 식품 재료 -> 선택된 알레르기가 포함된 식품 삭제 -> 유사 식품 재료 -> 식품 이름(출력)
 
 ### 배포 사이트
-- https://food-allergy-c.herokuapp.com/
+- https://food-allergy-c.herokuapp.com/ -> 헤로쿠 유로전환으로 인한 배포중단
 - ![image](https://user-images.githubusercontent.com/78893090/169684784-b6eb983b-e12b-4f51-83e0-b9ae5e8d2a53.png)
 - 검색리스트
   - [foodname.txt](https://github.com/xodn234/Food_Allergy_PJ/files/8885458/foodname.txt)
